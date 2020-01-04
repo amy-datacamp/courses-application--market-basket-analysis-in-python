@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Introduction to Market Basket Analysis'
 description: 'Chapter description goes here.'
 ---
 
